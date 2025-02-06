@@ -23,11 +23,11 @@ The contagion simulation is a proof of conept that I found cool. Its not very ac
 ![image](https://github.com/user-attachments/assets/ff854452-7283-48e7-a044-f11c8b0da3f8)
 ![image](https://github.com/user-attachments/assets/70f50008-3626-47a1-b790-124e754dcd4d)
 
-3k Particle Sim With starting 10 infected:
+**3k Particle Sim With starting 10 infected:**
 ![image](https://github.com/user-attachments/assets/07ed3ae0-8b72-4a73-9e47-8cab9b9e6b4a)
 
 
-
+**Video (Click full screen to see live stats):**
 https://github.com/user-attachments/assets/710fb0bf-c9b0-4cfe-b7c1-4818ef09dd2d
 
 
