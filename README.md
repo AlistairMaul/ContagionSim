@@ -29,6 +29,6 @@ The contagion simulation is a proof of conept that I found cool. Its not very ac
 
 **Video (Click full screen to see live stats):**
 
-![video]https://github.com/user-attachments/assets/710fb0bf-c9b0-4cfe-b7c1-4818ef09dd2d
+https://github.com/user-attachments/assets/710fb0bf-c9b0-4cfe-b7c1-4818ef09dd2d
 
 
